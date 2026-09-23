@@ -11,7 +11,7 @@
     },
     {
       "key": "电影天堂资源",
-      "name"："电影天堂资源",
+      "name": "电影天堂资源",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
