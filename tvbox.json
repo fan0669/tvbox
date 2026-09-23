@@ -10,9 +10,18 @@
       "filterable": 1
     },
     {
+      "key": "电影天堂资源",
+      "name"："电影天堂资源",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "魔都资源",
       "name": "魔都资源",
-      "type": 1,
+      "type": 2,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
